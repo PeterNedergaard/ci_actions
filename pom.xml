@@ -104,9 +104,9 @@
                 <version>2.2</version>
                 <configuration>          
                     <server>TomcatServer</server>
-                    <url>${139.59.147.87}</url>
-                    <username>${root}</username>
-                    <password>${root}</password>
+                    <url>${http://139.59.147.87:8081/manager}</url>
+                    <username>${remote.user}</username>
+                    <password>${remote.password}</password>
                     <update>true</update>    
                 </configuration>  
             </plugin>          
