@@ -105,8 +105,8 @@
                 <configuration>          
                     <server>TomcatServer</server>
                     <url>${139.59.147.87}</url>
-                    <username>${remote.user}</username>
-                    <password>${remote.password}</password>
+                    <username>${root}</username>
+                    <password>${root}</password>
                     <update>true</update>    
                 </configuration>  
             </plugin>          
